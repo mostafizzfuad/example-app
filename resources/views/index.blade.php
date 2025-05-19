@@ -24,7 +24,8 @@
                         <h4 class="card-title">Card Heading</h4>
                     </div>
                     <div class="card-body">
-                        <p>Hello Laravel!!</p>
+                        <p>Hello Bangladesh</p>
+                        <img src="{{ asset('img/cat.jpg') }}" alt="cat" class="img-thumbnail">
                     </div>
                 </div>
             </div>
